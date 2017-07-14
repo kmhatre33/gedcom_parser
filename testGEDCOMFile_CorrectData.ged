@@ -1,0 +1,156 @@
+
+0 NOTE GitHub Link: https://github.com/kdhaimade/CS-555-Project_GEDCOM
+0 NOTE Repository Name: CS-555-Project_GEDCOM
+0 NOTE Name: Kunal Dhaimade
+0 NOTE Generation of an imaginary Family Tree
+
+0 I02 INDI
+1 NAME Charles /Baker/
+1 SEX M
+1 BIRT
+2 DATE 5 JUL 1935
+1 DEAT
+2 DATE 28 AUG 2013
+1 FAMS F03
+0 NOTE end of individual
+
+0 I01 INDI
+1 NAME Jenny /Baker/
+1 SEX F
+1 BIRT
+2 DATE 27 DEC 1937
+1 FAMS F03
+0 NOTE end of individual
+
+0 I05 INDI
+1 NAME Hannah /Baker/
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1968
+1 FAMC F03
+0 NOTE end of individual
+
+0 I03 INDI
+1 NAME Henry /Baker/
+1 SEX M
+1 BIRT
+2 DATE 13 APR 1960
+1 FAMC F03
+1 FAMS F01
+1 FAMS F02
+0 NOTE end of individual
+
+0 I04 INDI
+1 NAME Sohpie /Baker/
+1 SEX F
+1 BIRT
+2 DATE 26 JUN 1960
+1 DEAT
+2 DATE 11 SEP 2001
+1 FAMS F01
+0 NOTE end of individual
+
+0 I08 INDI
+1 NAME Ashley /Baker/
+1 SEX F
+1 BIRT
+2 DATE 2 FEB 1961
+1 FAMS F02
+0 NOTE end of individual
+
+0 I06 INDI
+1 NAME David /Baker/
+1 SEX M
+1 BIRT
+2 DATE 19 SEP 1993
+1 FAMC F01
+0 NOTE end of individual
+
+0 I07 INDI
+1 NAME Alexis /Baker/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2004
+1 FAMC F02
+0 NOTE end of individual
+
+0 I09 INDI
+1 NAME Danny /Baker/
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1970
+1 FAMC F03
+0 NOTE end of individual
+
+0 I10 INDI
+1 NAME Peter /Baker/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 1999
+1 FAMC F01
+0 NOTE end of individual
+
+0 I11 INDI
+1 NAME Logan /Baker/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 1999
+1 FAMC F01
+0 NOTE end of individual
+
+0 I12 INDI
+1 NAME Harold /Baker/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 1999
+1 FAMC F01
+0 NOTE end of individual
+
+0 I13 INDI
+1 NAME Trish /Baker/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 1999
+1 FAMC F01
+0 NOTE end of individual
+
+0 I14 INDI
+1 NAME Jessica /Baker/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 1999
+1 FAMC F01
+0 NOTE end of individual
+
+0 F03 FAM
+1 MARR
+2 DATE 21 DEC 1958
+1 HUSB I02
+1 WIFE I01
+1 CHIL I05
+1 CHIL I03
+1 CHIL I09
+0 NOTE end of family
+
+0 F01 FAM
+1 MARR
+2 DATE 22 NOV 1989
+1 HUSB I03
+1 WIFE I04
+1 CHIL I06
+1 CHIL I10
+1 CHIL I11
+1 CHIL I12
+1 CHIL I13
+1 CHIL I14
+0 NOTE end of family
+
+0 F02 FAM
+1 MARR
+2 DATE 5 JAN 2003
+1 HUSB I03
+1 WIFE I08
+1 CHIL I07
+0 NOTE end of family
+
+0 NOTE end of the Family Tree
